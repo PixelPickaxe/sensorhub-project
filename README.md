@@ -1,4 +1,4 @@
-# sensorhub-project
+# Nicki Y.
 ##  Project Explanation
 [[insert about]]
 ## Project Elements
