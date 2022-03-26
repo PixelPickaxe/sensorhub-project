@@ -1,7 +1,7 @@
 # sensorhub-project
-##  Project Explanation
+#  Project Explanation
 [[insert about]]
-## Project Elements
+# Project Elements
 [[insert table]]
 
 # Project Timeline
