@@ -148,5 +148,8 @@ I have hit a roadblock in that the python and php code that I have written isn't
 ## 03/22/2022
 I have successfully gotten urllib working within python and have successfully fixed my code so that everything else is working!
 The webpage is successfully served and can be accessed from a remote device on the same network.
+<div dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/compile.jpg"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/compile.jpg" style="max-width: 50%;"></a>
+   </div>
 ## 03/26/2022
 I have decided to remove the camera element from this project, since between the time I started, and now, updates to the Raspberry Pi Kernel have made this implementation impossible to achieve. The environment sensing element is still the main focus of this project. Additionally, I have begun work on the project blog today.
