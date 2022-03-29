@@ -120,7 +120,7 @@ A local website is hosted on my project that is accessible through a web browser
 # Project Design
 Three Raspberry Pi Model 4 are networked to each-other in a cluster via ethernet as follows:
 <div dir="auto">
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/diag.jpg"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/diag.jpg" style="max-width: 50%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/diag.jpg"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/diag.jpg" style="max-width: 65%;"></a>
    </div>
 The lower-most Raspberry Pi (pi1) is equipped with a Waveshare Ethernet/USB HUB HAT that provides a needed second ethernet port. It is also equipped with a 128B SanDisk USB Drive for storage of collected data and website database.
 The middle Raspberry Pi (pi2) is equipped with a Raspberry Pi Camera for live video feed and GeeekPi Aluminum heatsink with PWM fan for cooling the Pi.
