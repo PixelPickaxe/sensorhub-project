@@ -123,8 +123,8 @@ A local website is hosted on my project that is accessible through a web browser
 # Project Timeline
 ## 02/11/2022
 All of the hardware required for this project has arrived and I have assembled it together.
-<div>
-<img src="https://github.com/PixelPickaxe/sensorhub-project/blob/main/01.jpg"</img>
+<div dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/01.jpg"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/01.jpg" style="max-width: 20%;"></a>
     </div>
 ## 02/17/2022
 I have successfully installed NGNIX, php, phpmyadmin, and MariaDB onto pi1 and they are accessible from other devices.
