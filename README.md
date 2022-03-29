@@ -122,15 +122,15 @@ Three Raspberry Pi Model 4 are networked to each-other in a cluster via ethernet
 <div dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/diag.jpg"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/diag.jpg" style="max-width: 65%;"></a>
    </div>
-   <p>
+   <p></p>
 The lower-most Raspberry Pi (pi1) is equipped with a Waveshare Ethernet/USB HUB HAT that provides a needed second ethernet port. It is also equipped with a 128B SanDisk USB Drive for storage of collected data and website database.
-<p>
+<p></p>
 The middle Raspberry Pi (pi2) is equipped with a Raspberry Pi Camera for live video feed and GeeekPi Aluminum heatsink with PWM fan for cooling the Pi.
-    <p>
+<p></p>
 The upper Raspberry Pi (pi3) is equipped with a GeeekPi Docker Pi Sensor Hub HAT for environmental data collection. This HAT has a thermal probe that is situated outside of the enclosure.
-    <p>
+<p></p>
 All of the components are installed snugly inside of a Sixfab IP54 Outdoor Project Enclosure. This enclosure is hermetically sealed and waterproof. 
-        <p>
+<p></p>
 A solar power bank is situated nearby outside of the enclosure, providing power to all of the internal components.
 
 
