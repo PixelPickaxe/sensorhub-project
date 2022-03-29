@@ -2,7 +2,7 @@
 #  Project Info
 This project is designed to be a working proof of concept in the feasibility of running an edge computing solution that collects environmental data around the clock with little to no downtime. This project is not designed as a specific solution to an existing problem, but rather an exploration of feasible avenues for edge computing.
 A local website is hosted on my project that is accessible through a web browser via an ip-address. This website is showcasing live local data. These data are temperature, humidity, barometric pressure, and light-level.
-<hr></hr>
+<hr>
 
 <table>
     <tbody><tr>
@@ -135,31 +135,31 @@ A solar power bank is situated nearby outside of the enclosure, providing power 
 
 
 # Project Timeline
-## 02/11/2022
+## 02/11/2022:
 All of the hardware required for this project has arrived and I have assembled it together.
 <div dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/01.jpg"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/01.jpg" style="max-width: 50%;"></a>
     </div>
-## 02/17/2022
+## 02/17/2022:
 I have successfully installed NGNIX, php, phpmyadmin, and MariaDB onto pi1 and they are accessible from other devices.
 <div dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/02-1.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/02-1.png" style="max-width: 50%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/02-2.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/02-2.png" style="max-width: 50%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/02-3.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/02-3.png" style="max-width: 50%;"></a>
     </div>
-## 02/21/2022
+## 02/21/2022:
 I have moved the database to pi1's external flash drive and shared its directory to pi2 and pi3 exclusively.
-## 02/22/2022
+## 02/22/2022:
 I have successfully implemented the software required for viewing the camera stream from pi2. The camera feed is accessible via web-interface.
 <div dir="auto">
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/04.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/04.png" style="max-width: 50%;"></a>
    </div>
-## 03/15/2022
+## 03/15/2022:
 I have modified code needed to read information from the SenseHat to work with the DockerPi SensorHub.
 I am currently trying to get urllib working with python so that I can add the information to my database.
-## 03/17/2022
+## 03/17/2022:
 I have hit a roadblock in that the python and php code that I have written isn't working correctly. I keep getting error 500 on my ngnix webserver. Troubleshooting is necessary.
-## 03/22/2022
+## 03/22/2022:
 I have successfully gotten urllib working within python and have successfully fixed my code so that everything else is working!
 The webpage is successfully served and can be accessed from a remote device on the same network.
 <div dir="auto">
