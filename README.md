@@ -141,7 +141,7 @@ All of the hardware required for this project has arrived and I have assembled i
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/01.jpg"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/01.jpg" style="max-width: 50%;"></a>
     </div>
 ## 02/17/2022:
-I have successfully installed NGNIX, php, phpmyadmin, and MariaDB onto pi1 and they are accessible from other devices.
+I have successfully installed nginx, php, phpmyadmin, and MariaDB onto pi1 and they are accessible from other devices.
 <div dir="auto">
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/02-1.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/02-1.png" style="max-width: 50%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/02-2.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/02-2.png" style="max-width: 50%;"></a>
@@ -158,7 +158,7 @@ I have successfully implemented the software required for viewing the camera str
 I have modified code needed to read information from the SenseHat to work with the DockerPi SensorHub.
 I am currently trying to get urllib working with python so that I can add the information to my database.
 ## 03/17/2022:
-I have hit a roadblock in that the python and php code that I have written isn't working correctly. I keep getting error 500 on my ngnix webserver. Troubleshooting is necessary.
+I have hit a roadblock in that the python and php code that I have written isn't working correctly. I keep getting error 500 on my nginx webserver. Troubleshooting is necessary.
 ## 03/22/2022:
 I have successfully gotten urllib working within python and have successfully fixed my code so that everything else is working!
 The webpage is successfully served and can be accessed from a remote device on the same network.
