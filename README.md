@@ -167,3 +167,8 @@ The webpage is successfully served and can be accessed from a remote device on t
    </div>
 ## 03/26/2022
 I have begun work on the project blog today. Additionally, I have decided to not use the camera element in this project, since between the time I started, and now, updates to the Raspberry Pi Kernel have made this implementation impossible to achieve. The environment sensing element is still the main focus of this project.
+## 03/29/2022
+I have finished the project and have closed up the enclosure completely. I have assigned the pi with a static ip address of 10.147.204.115 and the website is updated every four seconds.
+<div dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/site.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/site.png" style="max-width: 50%;"></a>
+       </div>
