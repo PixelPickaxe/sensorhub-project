@@ -131,7 +131,7 @@ I have moved the database to pi1's external flash drive and shared its directory
 ## 02/22/2022
 I have successfully implemented the software required for viewing the camera stream from pi2. The camera feed is accessible via web-interface.
 ## 03/15/2022
-I have modified the code needed to read information from the SenseHat to work with the DockerPi SensorHub.
+I have modified code needed to read information from the SenseHat to work with the DockerPi SensorHub.
 I am currently trying to get urllib working with python so that I can add the information to my database.
 ## 03/17/2022
 I have hit a roadblock in that the python and php code that I have written isn't working correctly. I keep getting error 500 on my ngnix webserver. Troubleshooting is necessary.
