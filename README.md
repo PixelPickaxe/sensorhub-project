@@ -1,8 +1,9 @@
 # sensorhub-project
+<hr>
 #  Project Explanation
 This project is designed to be a working proof of concept in the feasibility of running an edge computing solution that collects environmental data around the clock with little to no downtime. This project is not designed as a specific solution to an existing problem, but rather an exploration of feasible avenues for edge computing.
 A local website will be hosted on my project that is accessible through wireless networking via an ip-address. This website will be showcasing live local data. These data will be temperature, humidity, barometric pressure, and light-level.
-
+<hr>
 <table>
     <tbody><tr>
         <td>Image</td>
@@ -115,6 +116,7 @@ A local website will be hosted on my project that is accessible through wireless
         <td>$730.28</td>
     </tr>
 </tbody></table>
+<hr>
 
 # Project Timeline
 ## 02/11/2022
