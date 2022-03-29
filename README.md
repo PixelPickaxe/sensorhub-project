@@ -124,14 +124,22 @@ A local website is hosted on my project that is accessible through a web browser
 ## 02/11/2022
 All of the hardware required for this project has arrived and I have assembled it together.
 <div dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/01.jpg"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/01.jpg" style="max-width: 20%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/01.jpg"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/01.jpg" style="max-width: 50%;"></a>
     </div>
 ## 02/17/2022
 I have successfully installed NGNIX, php, phpmyadmin, and MariaDB onto pi1 and they are accessible from other devices.
+<div dir="auto">
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/02-1.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/02-1.png" style="max-width: 50%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/02-2.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/02-2.png" style="max-width: 50%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/02-3.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/02-3.png" style="max-width: 50%;"></a>
+    </div>
 ## 02/21/2022
 I have moved the database to pi1's external flash drive and shared its directory to pi2 and pi3 exclusively.
 ## 02/22/2022
 I have successfully implemented the software required for viewing the camera stream from pi2. The camera feed is accessible via web-interface.
+<div dir="auto">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/04.png"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/04.png" style="max-width: 50%;"></a>
+   </div>
 ## 03/15/2022
 I have modified code needed to read information from the SenseHat to work with the DockerPi SensorHub.
 I am currently trying to get urllib working with python so that I can add the information to my database.
