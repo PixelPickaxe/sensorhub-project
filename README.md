@@ -12,7 +12,7 @@ A local website is hosted on my project that is accessible through a web browser
     </tr>
     <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/sand.jpg?raw=true"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/sand.jpg?raw=true" style="max-width: 100%;"></a></td>
-        <td>SanDisk 128GB Ultra Luxe USB 3.1 Gen 1 Flash Drive - SDCZ74-128G-G46</td>
+        <a href ="https://www.amazon.com/gp/product/B07SYB38Q8/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1"><td>SanDisk 128GB Ultra Luxe USB 3.1 Gen 1 Flash Drive - SDCZ74-128G-G46</td></a>
         <td>$15.87</td>
     </tr>
     <tr>
