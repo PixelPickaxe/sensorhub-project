@@ -67,7 +67,7 @@ A local website is hosted on my project that is accessible through a web browser
     </tr>
     <tr>
         <td><a target="_blank" rel="noopener noreferrer" href="https://github.com/PixelPickaxe/sensorhub-project/blob/main/cam.jpg?raw=true"><img src="https://github.com/PixelPickaxe/sensorhub-project/raw/main/cam.jpg?raw=true" style="max-width: 100%;"></a></td>
-        <td><a href="https://www.amazon.com/gp/product/B07M9Q43MX/ref=ppx_yo_dt_b_asin_title_o09_s03?ie=UTF8&psc=1"5MP 1080P Video Camera Module for Raspberry Pi 4 Model B, Pi 3 b+, Pi Zero W Camera with Case Flex Cable (Camera + Holder)</a></td>
+        <td><a href="https://www.amazon.com/gp/product/B07M9Q43MX/ref=ppx_yo_dt_b_asin_title_o09_s03?ie=UTF8&psc=1">5MP 1080P Video Camera Module for Raspberry Pi 4 Model B, Pi 3 b+, Pi Zero W Camera with Case Flex Cable (Camera + Holder)</a></td>
         <td>$13.29</td>
     </tr>
     <tr>
